@@ -11,15 +11,17 @@ It features encrypted password saving, master-password authentication, auto-lock
 
 ## 📸 Screenshots
 
-> Replace the image links with your own screenshots later.
-
 ### 🔐 Login Screen
 
-![Login Screen](https://via.placeholder.com/700x350?text=Login+Screen)
+![Login Screen](https://github.com/atharvmali/PasswordVault/blob/main/images/login_screen.png?raw=true)
 
 ### 🗂️ Vault Dashboard
 
-![Vault Screen](https://via.placeholder.com/700x350?text=Vault+Dashboard)
+![Vault Screen](https://github.com/atharvmali/PasswordVault/blob/main/images/vault_dashboard.png?raw=true)
+
+### 📈 Flow Chart
+
+![Flow Chart](https://github.com/atharvmali/PasswordVault/blob/main/images/flow_chart.png?raw=true)
 
 ---
 
